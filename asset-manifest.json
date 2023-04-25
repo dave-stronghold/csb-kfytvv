@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://dave-stronghold.github.io/csb-kfytvv/static/css/main.3edff129.css",
+    "main.js": "https://dave-stronghold.github.io/csb-kfytvv/static/js/main.1d9483d6.js",
+    "index.html": "https://dave-stronghold.github.io/csb-kfytvv/index.html",
+    "main.3edff129.css.map": "https://dave-stronghold.github.io/csb-kfytvv/static/css/main.3edff129.css.map",
+    "main.1d9483d6.js.map": "https://dave-stronghold.github.io/csb-kfytvv/static/js/main.1d9483d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3edff129.css",
+    "static/js/main.1d9483d6.js"
+  ]
+}
